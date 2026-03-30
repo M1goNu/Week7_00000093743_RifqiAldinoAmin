@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Johnny",
+        "email": "johnny@email.com",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+        "message": "Hello, how are you?"
+    },
+    {
+        "name": "Rooney",
+        "email": "rooney@email.com",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+        "message": "Hi, I'm fine. How about you?"
+    },
+    {
+        "name": "Mary",
+        "email": "mary@email.com",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+        "message": "Hey, I'm doing great. Thanks for asking!"        
+    }
+]

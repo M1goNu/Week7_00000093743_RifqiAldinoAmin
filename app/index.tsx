@@ -36,7 +36,7 @@ export default function HomeScreen() {
         <Animated.View style={styles.item} entering={SlideInDown}>
           <Text>Orientation: {orientation}</Text>
         </Animated.View>
-        <Link href="/" asChild>
+        <Link href="/userList" asChild>
           <Button style={styles.button}>GO TO User List</Button>
         </Link>
       </View>
